@@ -73,3 +73,4 @@
 | **Model Recommendation** | A deep 2D Convolutional Neural Network architecture incorporating Max-Pooling layers for spatial reduction, ReLU activations for non-linear feature mapping, and a dense Dropout-regularized classification head. |
 | **Expected Business Impact** | Reduction in manual visual processing hours by up to $60\%$, standardized defect grading criteria, faster unit cycle times, and a decrease in consumer product return rates. |
 | **Risks & Mitigation Plan** | **Risk:** Industrial lens smudging or camera vibration creating false defect predictions. <br>**Mitigation:** Regular physical camera calibration loops combined with automated edge-case routing to human QA inspectors when prediction confidence falls beneath $85\%$. |
+
