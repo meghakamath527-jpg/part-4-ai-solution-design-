@@ -316,24 +316,7 @@ CNN architecture with convolution, pooling, and dense layers.
 | Overfitting | Use augmentation and regularization |
 | Privacy concerns | Secure data storage |
 
----
 
-# Solution Architecture Diagram
-
-The AI solution follows this workflow:
-
-Product Image  
-↓  
-Image Preprocessing  
-↓  
-CNN Model  
-↓  
-Feature Extraction  
-↓  
-Defect Classification  
-↓  
-Quality Inspection Dashboard  
-↓  
 Accept / Reject Product
 
 The architecture automates quality inspection and improves manufacturing efficiency.
